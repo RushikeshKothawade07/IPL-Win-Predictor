@@ -1,10 +1,6 @@
 emoji==1.7.0
 matplotlib==3.6.2
-matplotlib==3.7.1
-matplotlib==3.5.1
 pandas==1.5.2
-pandas==1.5.3
-pandas==1.4.2
 seaborn==0.11.2
 streamlit==1.21.0
 urlextract==1.8.0
